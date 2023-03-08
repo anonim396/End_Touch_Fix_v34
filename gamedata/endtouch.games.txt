@@ -1,0 +1,14 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			"PhysicsCheckForEntityUntouch"
+			{
+				"windows"	"\x57\x8B\xF9\x8B\x87\x4C\x03\x00\x00"
+				"linux"		"@_ZN11CBaseEntity28PhysicsCheckForEntityUntouchEv"
+			}
+		}
+	}
+}
